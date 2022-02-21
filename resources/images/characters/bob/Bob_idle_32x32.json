@@ -1,0 +1,15 @@
+{ "columns":4,
+ "image":"Bob_idle_32x32.png",
+ "imageheight":64,
+ "imagewidth":128,
+ "margin":0,
+ "name":"Bob_idle_32x32",
+ "spacing":0,
+ "tilecount":4,
+ "tiledversion":"1.7.0",
+ "tileheight":64,
+ "tilewidth":32,
+ "transparentcolor":"#ff00ff",
+ "type":"tileset",
+ "version":"1.6"
+}

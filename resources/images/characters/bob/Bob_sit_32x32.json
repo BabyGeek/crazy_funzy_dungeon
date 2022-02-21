@@ -1,0 +1,15 @@
+{ "columns":24,
+ "image":"Bob_sit_32x32.png",
+ "imageheight":64,
+ "imagewidth":768,
+ "margin":0,
+ "name":"Bob_sit_32x32",
+ "spacing":0,
+ "tilecount":24,
+ "tiledversion":"1.7.0",
+ "tileheight":64,
+ "tilewidth":32,
+ "transparentcolor":"#ff00ff",
+ "type":"tileset",
+ "version":"1.6"
+}
